@@ -73,7 +73,3 @@ Using a **Quadrant Analysis framework**, I identified "Elite Providers" (e.g., H
 
 ---
 
-## 📂 7. Repository Structure
-*   `Project.ipynb`: Full Python implementation and visualization.
-*   `requirements.txt`: Necessary libraries for reproducibility.
-*   `outputs/`: High-resolution strategy charts and model performance metrics.
